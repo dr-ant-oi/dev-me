@@ -1,5 +1,5 @@
 <?php
     echo "Start Project";
-    echo "End Projet";
+echo "setup compl";
 ?>
 
